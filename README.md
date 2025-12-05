@@ -28,8 +28,6 @@ En reconversion professionnelle après un bootcamp intensif (Jedha), je combine 
 
 🔗 Mon Portfolio (projets & dashboards) : https://elo3534.github.io/  
 
-💼 Mon Profil GitHub : https://github.com/Elo3534  
-
- @ LinkedIn https://www.linkedin.com/in/elodie-heinry
+💼 LinkedIn https://www.linkedin.com/in/elodie-heinry
 
 
