@@ -26,8 +26,10 @@ En reconversion professionnelle après un bootcamp intensif (Jedha), je combine 
     - Modélisation prédictive de l'attrition client : Identification des drivers clés via l'analyse exploratoire (EDA) et le machine learning (Python, Tableau).
     - Analyse comportementale : Étude statistique (Python, Statsmodels) sur des données de speed-dating pour identifier les critères de sélection.
 
-🔗 Mon Portfolio (projets & dashboards) : https://elo3534.github.io/
-💼 Mon Profil GitHub : https://github.com/Elo3534
+🔗 Mon Portfolio (projets & dashboards) : https://elo3534.github.io/  
+
+💼 Mon Profil GitHub : https://github.com/Elo3534  
+
  @ LinkedIn https://www.linkedin.com/in/elodie-heinry
 
 
