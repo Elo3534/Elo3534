@@ -1,9 +1,9 @@
 Data Analyst certifiée (titre RNCP niveau 6), je transforme des données complexes en leviers de performance concrets. Mon objectif : concevoir des solutions d'analyse qui éclairent la stratégie et facilitent la prise de décision.
 
 ### Je valorise vos données en :
-    - Concevant des tableaux de bord interactifs (Power BI, Tableau) alignés sur vos enjeux métiers.
-    - Automatisant la préparation et l'analyse des données via des pipelines robustes (SQL, Python, DBT).
-    - Fournissant des insights actionnables grâce à l'analyse statistique et au machine learning (Python, SciKit-Learn).
+- Concevant des tableaux de bord interactifs (Power BI, Tableau) alignés sur vos enjeux métiers.
+- Automatisant la préparation et l'analyse des données via des pipelines robustes (SQL, Python, DBT).
+- Fournissant des insights actionnables grâce à l'analyse statistique et au machine learning (Python, SciKit-Learn).
 
 En reconversion professionnelle après un bootcamp intensif (Jedha), je combine rigueur technique, autonomie et une approche orientée résultats. Je suis disponible immédiatement pour un poste de Data Analyst ou Analytics Engineer en CDI.
 
