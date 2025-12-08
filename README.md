@@ -22,9 +22,13 @@ En reconversion professionnelle après un bootcamp intensif (Jedha), je combine 
 
 ### Mes projets :
 - Analyse de stratégie Netflix : Dashboard Power BI interactif pour décrypter les mécanismes d'engagement et de rétention.
+https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice 
 - Infrastructure data pour le secteur aérien : Construction d'un pipeline ETL/ELT (SQL, DBT, Snowflake) pour la consolidation et l'analyse des données.
+https://github.com/Elo3534/Aircraft_DBT_SNOWFLAKE
 - Modélisation prédictive de l'attrition client : Identification des drivers clés via l'analyse exploratoire (EDA) et le machine learning (Python, Tableau).
+https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word
 - Analyse comportementale : Étude statistique (Python, Statsmodels) sur des données de speed-dating pour identifier les critères de sélection.
+https://github.com/Elo3534/TINDER_python
 
 🔗 Mon Portfolio (projets & dashboards) : https://elo3534.github.io/  
 
