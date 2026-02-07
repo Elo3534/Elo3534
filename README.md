@@ -11,13 +11,13 @@ En reconversion professionnelle après un bootcamp intensif (Jedha), je combine 
 - SQL, Python (Pandas, SciKit-Learn)	
 - Power BI, Tableau, Excel (avancé)	
 - DBT, Snowflake, ETL/ELT	
-- Statistiques (descriptives/inférentielles)	
+- Statistiques (descriptives/inférentielles).	
 
 ### Domaines de compétences :
 - Analyse de données & Business Intelligence
 - Visualisation de données & Dashboards
 - Ingénierie des données / Data Prep
-- Machine Learning supervisé
+- Machine Learning supervisé.
 
 
 ### Mes projets :
