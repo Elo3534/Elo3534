@@ -34,6 +34,6 @@ https://github.com/Elo3534/TINDER_python
 
 💼 Mon LinkedIn : https://www.linkedin.com/in/elodie-heinry
 
-📚 Mon CV : https://github.com/Elo3534/Elo3534.github.io/blob/59add84bcafd515760ff8c8cd6ddb4b0954619c5/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf
+📚 Mon CV : https://github.com/Elo3534/Elo3534.github.io/blob/2ec6805e15f6c7481e12d1543b2701b9df36898d/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf
 
 
